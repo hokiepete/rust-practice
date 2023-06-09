@@ -1,4 +1,4 @@
-* YOUR CODE GOES HERE */
+/* YOUR CODE GOES HERE */
 struct Rectangle {
     width: f64,
     height: f64,
